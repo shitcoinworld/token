@@ -25,7 +25,7 @@
  *                                                                             *
  *   Please visit https://shitcoinworld.com for the latest news and updates.   *
  *                                                                             *
- *       THESE TOKENS ARE ONLY VALID ON ETHEREUM CLASSIC (CHAINID 61)          *
+ *     TOKENS ARE ONLY VALID ON THE CLASSIC ETHEREUM NETWORK ("CHAINID" 61)    *
  *                                                                             *
  *******************************************************************************
 
