@@ -1,5 +1,8 @@
 {
-  "dependencies": {
-    "openzeppelin-solidity": "^1.12.0"
-  }
+    "scripts": {
+        "flatten": "truffle-flattener original_💩.sol > deployable_💩.sol"
+    },
+    "dependencies": {
+        "truffle-flattener": "^1.2.6"
+    }
 }

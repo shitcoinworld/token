@@ -13,8 +13,13 @@ pragma solidity ^0.4.24;
  *                                                                             *
  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
  *                                                                             *
- *   Shitcoin World is the home of the Hodlers, mysterious creaturs with the   *
+ *  Shitcoin World is the home of the Hodlers, mysterious creatures with the   *
  *  ability to generate Original Shitcoins™ simply by hodling other Shitcoins. *
+ *                                                                             *
+ *  Original Shitcoins™ are minted and assigned to Hodler addresses according  *
+ *          to the rules outlined on the Hodler relations website.             *
+ *                                                                             *
+ *                           THANK YOU FOR HODLING.                            *
  *                                                                             *
  *   Please visit https://shitcoinworld.com for the latest news and updates.   *
  *                                                                             *
@@ -54,8 +59,8 @@ odys+shh/  .ddyyyyhhhhhhhyyyyyyyssssssssssssssssyyyyyyhhhhhhhyyyydh    /hhoosydo
                   
 */
 
-import 'openzeppelin-solidity/contracts/token/ERC20/PausableToken.sol';
-import 'openzeppelin-solidity/contracts/token/ERC20/MintableToken.sol';
+import './openzeppelin-solidity/contracts/token/ERC20/PausableToken.sol';
+import './openzeppelin-solidity/contracts/token/ERC20/MintableToken.sol';
 
 contract OriginalShitcoin is PausableToken, MintableToken {
   string public name = "Original Shitcoin™";
