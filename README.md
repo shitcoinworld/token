@@ -18,9 +18,10 @@
  *  ability to generate Original Shitcoins™ simply by hodling other Shitcoins. *
  *                                                                             *
  *  Original Shitcoins™ are minted and assigned to Hodler addresses according  *
- *          to the rules outlined on the Hodler relations website.             *
+ *          to the rules outlined on the Hodler relations website:             *
+ *                     https://shitcoinworld.com/hodlers                       *
  *                                                                             *
- *                           THANK YOU FOR HODLING.                            *
+ *                          THANK YOU FOR HODLING.                             *
  *                                                                             *
  *   Please visit https://shitcoinworld.com for the latest news and updates.   *
  *                                                                             *
