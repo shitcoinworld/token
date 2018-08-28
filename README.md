@@ -2,7 +2,7 @@
 
 ## Contract Address
 
-The [release version](https://github.com/shitcoinworld/token/blob/c10d7228a46b373003d40c572c59a5b96e685eea/deployable_%F0%9F%92%A9.sol) has been deployed to the classic Ethereum network: http://etherhub.io/tx/0x6f3f45e5572c5fa7ff70f468e81b36065ed1d6f75563a4e4b239561c6983d07f
+The [release version](https://github.com/shitcoinworld/token/blob/cd346470c89779638899627efba0b2f23ae354c8/deployable_%F0%9F%92%A9.sol) has been deployed to the classic Ethereum network: http://etherhub.io/tx/0x6f3f45e5572c5fa7ff70f468e81b36065ed1d6f75563a4e4b239561c6983d07f
 
 ## What's this?
 
