@@ -1,6 +1,11 @@
 # Shitcoin World contracts
 
-## Original Shitcoin™ Token
+Shitcoin World utilizes two contracts which are described below:
+
+1. Original Shitcoin™ Token Contract
+2. Hodler NFT Contract
+
+## Original Shitcoin™ Token Contraft
 
 ### What is it?
 
@@ -19,7 +24,7 @@ First, run `git submodule update` and `npm install` to fetch the dependencies.
 Then, run `npm run flatten` to compile the `original_💩.sol` file into `deployable_💩.sol`, which can be deployed to the blockchain using remix.
 
 
-## Hodler Token
+## Hodler NFT Contract
 
 ### What is it?
 
