@@ -60,7 +60,7 @@ odys+shh/  .ddyyyyhhhhhhhyyyyyyyssssssssssssssssyyyyyyhhhhhhhyyyydh    /hhoosydo
 import './openzeppelin-solidity/contracts/token/ERC20/PausableToken.sol';
 import './openzeppelin-solidity/contracts/token/ERC20/MintableToken.sol';
 
-contract OriginalShitcoin is PausableToken, CappedToken {
+contract OriginalShitcoin is PausableToken, MintableToken {
   string public name = "Original Shitcoin™";
   string public symbol = "💩";
   uint8 public decimals = 8;

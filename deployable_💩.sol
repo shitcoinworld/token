@@ -547,16 +547,14 @@ contract MintableToken is StandardToken, Ownable {
  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
  *                                                                             *
  *  Shitcoin World is the home of the Hodlers, mysterious creatures with the   *
- *  ability to generate Original Shitcoins™ simply by hodling other Shitcoins. *
+ *                   ability to generate Original Shitcoins™.                  *
  *                                                                             *
- *  Original Shitcoins™ are minted and assigned to Hodler addresses according  *
- *          to the rules outlined on the Hodler relations website.             *
+ *     Please refer to the Shitcoin World FAQ website for more information     *
+ *                        https://shitcoinworld.com/faq                        *
  *                                                                             *
- *                           THANK YOU FOR HODLING.                            *
+ *      For the latest news and updates, visit https://shitcoinworld.com       *
  *                                                                             *
- *   Please visit https://shitcoinworld.com for the latest news and updates.   *
- *                                                                             *
- *       THESE TOKENS ARE ONLY VALID ON ETHEREUM CLASSIC (CHAINID 61)          *
+ *        THESE TOKENS ARE ONLY VALID ON ETHEREUM CLASSIC (CHAINID 61)         *
  *                                                                             *
  *******************************************************************************
 

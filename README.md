@@ -11,4 +11,6 @@ https://github.com/shitcoinworld/token/blob/master/original_💩.sol
 
 ## Deployment
 
-Run `npm run flatten` to compile the `original_💩.sol` file into `deployable_💩.sol`, which can be deployed to the blockchain using remix.
+First, run `git submodule update` and `npm install` to fetch the dependencies.
+
+Then, run `npm run flatten` to compile the `original_💩.sol` file into `deployable_💩.sol`, which can be deployed to the blockchain using remix.
