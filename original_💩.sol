@@ -16,8 +16,9 @@ pragma solidity ^0.4.24;
  *  Shitcoin World is the home of the Hodlers, mysterious creatures with the   *
  *  ability to generate Original Shitcoins™ simply by hodling other Shitcoins. *
  *                                                                             *
- *  Original Shitcoins™ are minted and assigned to Hodler addresses according  *
- *          to the rules outlined on the Hodler relations website.             *
+ *    Original Shitcoins™ are capped at 21,000,000 and are minted on demand    *
+ *                according to the rules outlined in our FAQ:                  *
+ *                        https://shitcoinworld.com/faq                        *
  *                                                                             *
  *                           THANK YOU FOR HODLING.                            *
  *                                                                             *
