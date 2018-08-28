@@ -14,17 +14,14 @@ pragma solidity ^0.4.24;
  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
  *                                                                             *
  *  Shitcoin World is the home of the Hodlers, mysterious creatures with the   *
- *  ability to generate Original Shitcoins™ simply by hodling other Shitcoins. *
+ *                   ability to generate Original Shitcoins™.                  *
  *                                                                             *
- *    Original Shitcoins™ are capped at 21,000,000 and are minted on demand    *
- *                according to the rules outlined in our FAQ:                  *
+ *     Please refer to the Shitcoin World FAQ website for more information     *
  *                        https://shitcoinworld.com/faq                        *
  *                                                                             *
- *                           THANK YOU FOR HODLING.                            *
+ *      For the latest news and updates, visit https://shitcoinworld.com       *
  *                                                                             *
- *   Please visit https://shitcoinworld.com for the latest news and updates.   *
- *                                                                             *
- *       THESE TOKENS ARE ONLY VALID ON ETHEREUM CLASSIC (CHAINID 61)          *
+ *        THESE TOKENS ARE ONLY VALID ON ETHEREUM CLASSIC (CHAINID 61)         *
  *                                                                             *
  *******************************************************************************
 
@@ -63,7 +60,7 @@ odys+shh/  .ddyyyyhhhhhhhyyyyyyyssssssssssssssssyyyyyyhhhhhhhyyyydh    /hhoosydo
 import './openzeppelin-solidity/contracts/token/ERC20/PausableToken.sol';
 import './openzeppelin-solidity/contracts/token/ERC20/MintableToken.sol';
 
-contract OriginalShitcoin is PausableToken, MintableToken {
+contract OriginalShitcoin is PausableToken, CappedToken {
   string public name = "Original Shitcoin™";
   string public symbol = "💩";
   uint8 public decimals = 8;
