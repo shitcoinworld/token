@@ -5,7 +5,7 @@ Shitcoin World utilizes two contracts which run on the original Ethereum network
 1. Original Shitcoin™ Token Contract
 2. Hodler NFT Contract
 
-## Original Shitcoin™ Token Contraft
+## Original Shitcoin™ Token Contract
 
 ### What is it?
 
