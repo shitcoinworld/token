@@ -1,6 +1,6 @@
 # Shitcoin World contracts
 
-Shitcoin World utilizes two contracts which are described below:
+Shitcoin World utilizes two contracts which run on the original Ethereum network (aka Ethereum Classic) and are described below:
 
 1. Original Shitcoin™ Token Contract
 2. Hodler NFT Contract
